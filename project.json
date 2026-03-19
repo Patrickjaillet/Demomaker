@@ -1,0 +1,68 @@
+{
+  "_comment": "project.json — MEGADEMO COMPOSER — 2026-03-19 00:34:07",
+  "config": {
+    "RES": [
+      1920,
+      1080
+    ],
+    "WINDOW_TITLE": "MEGADEMO 2025",
+    "MUSIC_FILE": "music\\track1.mp3",
+    "MUSIC_DURATION": 240.0,
+    "SCROLL_TEXT": "MEGADEMO 2025 * GREETINGS TO ALL SCENERS * CODE BY ??? * MUSIC BY ??? * KEEP IT REAL !!!",
+    "KICK_SENS": 1.5,
+    "AUDIO_SMOOTHING": 0.85,
+    "ROWS_PER_SECOND": 8,
+    "BASS_GAIN": 1.0,
+    "MID_GAIN": 1.0,
+    "HIGH_GAIN": 1.0,
+    "BEAT_THRESHOLD": 0.4,
+    "automation": {}
+  },
+  "timeline": [
+    {
+      "name": "AUDIO DEMO.FRAG",
+      "base_name": "audio_demo",
+      "start": 0.0,
+      "duration": 10.0
+    },
+    {
+      "name": "AURORA.FRAG",
+      "base_name": "aurora",
+      "start": 10.0,
+      "duration": 10.0
+    },
+    {
+      "name": "CITY.FRAG",
+      "base_name": "city",
+      "start": 20.0,
+      "duration": 10.0
+    },
+    {
+      "name": "CYBERLATHE.FRAG",
+      "base_name": "cyberlathe",
+      "start": 30.0,
+      "duration": 10.0
+    },
+    {
+      "name": "PLASMA.FRAG",
+      "base_name": "plasma",
+      "start": 40.0,
+      "duration": 10.0
+    },
+    {
+      "name": "WORMHOLE.FRAG",
+      "base_name": "wormhole",
+      "start": 50.0,
+      "duration": 10.0
+    },
+    {
+      "name": "GRIDSTORM.FRAG",
+      "base_name": "gridstorm",
+      "start": 60.0,
+      "duration": 10.0
+    }
+  ],
+  "overlays": [],
+  "images": [],
+  "_markers": []
+}
